@@ -5,8 +5,9 @@ function reverseString(str) {
   str = str.reverse();
   //joins array- use single quotes!
   str = str.join('');
-  
-  return str;
+
+  //return str;
+  console.log(str);
 }
 
 reverseString("hello");
