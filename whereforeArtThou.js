@@ -13,8 +13,8 @@ function whatIsInAName(collection, source) {
     });
     
     // Only change code above this line
-    //return arr;
-    console.log(arr);
+    return arr;
+    //console.log(arr);
   }
   
   whatIsInAName([{ first: "Romeo", last: "Montague" }, { first: "Mercutio", last: null }, { first: "Tybalt", last: "Capulet" }], { last: "Capulet" });
