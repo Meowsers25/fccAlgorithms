@@ -10,7 +10,8 @@ function factorialize(num) {
   for(i = 1; i < newNum; i++) {
     num = num * i;
   }
-  return num;
+  //return num;
+  console.log(num);
 }
 }
 factorialize(5);
