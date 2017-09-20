@@ -14,3 +14,4 @@ bouncer([7, "ate", "", false, 9])
 );
 
 //7 ate 9!!
+//Lame attempt.......
